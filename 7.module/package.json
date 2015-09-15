@@ -1,0 +1,20 @@
+{
+  "name": "modyuan",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "1.namespace.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/zhufengpeixun/mod"
+  },
+  "keywords": [
+    "modyuan"
+  ],
+  "author": "MIT",
+  "license": "MIT"
+}
